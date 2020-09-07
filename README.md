@@ -102,7 +102,7 @@ Have each view reference it's specific template:
         
         
 ## Front End
-# base.html
+### base.html
 All Django templates call for a base.html for the rest of the templates to inherit elements from:
 
       {% load static from staticfiles %}
@@ -135,7 +135,7 @@ All Django templates call for a base.html for the rest of the templates to inher
           </body>
       </html>
       
-# home.html      
+### home.html      
 Rendered home page:
       {% extends "MusicApp/MusicApp_base.html" %}
       {% load static %}
@@ -189,7 +189,7 @@ Rendered home page:
       </div>
       {% endblock %}
       
-# create.html      
+### create.html      
 Page to add a song to the database:
       {% extends "MusicApp/MusicApp_base.html" %}
 
@@ -226,7 +226,7 @@ Page to add a song to the database:
 
       {% endblock %}
       
-# details.html
+### details.html
 After clicking on a song listed in the index, details of the song are rendered:
       {% extends "MusicApp/MusicApp_base.html" %}
 
@@ -271,5 +271,4 @@ After clicking on a song listed in the index, details of the song are rendered:
 
           </div>
       {% endblock %}
-      
-This Live Project was an invaluable experience as I enter the Tech industry.
+      .
