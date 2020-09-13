@@ -1,6 +1,6 @@
 # Live Project
 
-After months of eductation in in mutilple programming languages through the Tech Academy's Python Bootcamp, I was able to work on a team of developers using the Django framework to create a hobby tracker application. Using Python, I created functionality on my pages to have the ability to add, edit, and delete song listings in a database. All (template) pages were styled using Boostrap 4. Not only was there more coding experience gained but experience with the team dynamics and project management of Azure DevOps was also gained through this sprint. Below are code snippets of some of the work done on the Live Project.
+After months of education in in multiple programming languages through the Tech Academy's Python Bootcamp, I was able to work on a team of developers using the Django framework to create a hobby tracker application. Using Python, I created functionality on my pages to have the ability to add, edit, and delete song listings in a database. All (template) pages were styled using Boostrap 4. Not only was there more coding experience gained but experience with the team dynamics and project management of Azure DevOps was also gained through this sprint. Below are code snippets of some of the work done on the Live Project.
 
 
 ## Back End
